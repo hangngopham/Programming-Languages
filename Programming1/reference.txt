@@ -1,0 +1,3 @@
+/*https://stackoverflow.com/questions/4163126/dereferencing-type-punned-pointer-will-break-strict-aliasing-rules-warning
+
+https://stackoverflow.com/questions/17260527/what-are-the-rules-for-casting-pointers-in-c*/
